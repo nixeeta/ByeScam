@@ -1,6 +1,4 @@
-# ByeScam
-
-# 🛡️ AI-Powered Scam Call & Message Detector
+# ByeScam - 🛡️ AI-Powered Scam Call & Message Detector
 
 An AI-driven mobile/web solution that detects and flags scam calls and SMS messages using NLP techniques, user reports, and crowdsourced data. This project aims to protect users—especially in India’s Tier 2/3 cities—from rising cyber threats, job frauds, and phishing attempts.
 
